@@ -1,0 +1,70 @@
+* {
+  margin: 0;
+  padding: 0;
+
+  text-align: center;
+}
+
+h1 {
+  padding: 60px 20px 0px 20px;
+  margin: 0;
+}
+
+h2 {
+  padding-bottom: 20px;
+}
+
+h3 {
+  padding: 20px 0 10px 0;
+}
+
+p {
+  padding: 10px 0;
+}
+
+ol, ul {
+  padding: 5px 20px 5px 40px;
+}
+
+li {
+  text-align: left;
+  padding: 5px 0;
+}
+
+#header-root {
+  padding: 30px 0;
+  background-color: rgb(255, 248, 240);
+}
+
+#nav-root {
+  position:fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 20;
+  padding: 5px;
+}
+
+button, .btn {
+  padding: 1px 8px;
+}
+
+.item {
+  padding: 10px 25px 20px 25px;
+}
+
+.light {
+  background-color: rgb(255, 255, 255);
+}
+
+.dark {
+  background-color: rgb(255, 242, 227);
+}
+
+#nav-root, footer {
+  background-color: bisque;
+}
+
+a {
+  text-decoration: none;
+}
